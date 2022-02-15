@@ -1,4 +1,6 @@
-#About me :rocket:
+# :rocket: About me 
+
+
 :raising_hand: Hi, my name is Matteo Possamai. I'm currently a student, that is learning Computer Science concepts and programming. I'm specialized in Backend development, with
 languages like Node for Javascript, or Flask for Python. I'm also a descrete Golang and Java developer.
 
@@ -21,6 +23,6 @@ with other if you create a common group. So far my biggest project. Built with N
 
 #	:iphone:Contact
 
-![<linkedin>](![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)-blue?style=for-the-badge&logo=linkedin&logoColor=white)
-  
-  
+LinkedIn: https://www.linkedin.com/in/matteo-possamai-784988191/
+Twitter: https://twitter.com/MatteoPossamai_
+Medium: https://medium.com/@mpossamaim
