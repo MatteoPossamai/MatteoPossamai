@@ -9,7 +9,7 @@ For frontend development, I can code with React and Typescript, and also with Bo
 :book: My interest are related to Backend microservices and SAAS, that are something I want to learn better how to implement and use. Also, mobile development is 
 something that really interest me. 
 
-#Projects
+# 	:film_projector:Projects
 So far I worked in some personal side projects. Here is an overview of some of them.
 
 :ledger: Referendum: simple webapp where everyone can sign in, and create a question with only two possible aswer, a sort of survey where other users can vote and also 
