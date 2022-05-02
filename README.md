@@ -12,6 +12,8 @@ something that really interest me.
 # 	:film_projector:Projects
 So far I worked in some personal side projects. Here is an overview of some of them.
 
+:potable_water: Pollution - Mad4Feltre: webap where everyone can visualize in a map all the data about the pollution data in the province of Belluno. You can visualize all the data and the history of all the mesurations. It has been built using NodeJS/Express as backend, PostgrSQL as database, and vanilla Javascript HTML/CSS for frontend
+
 :ledger: Referendum: simple webapp where everyone can sign in, and create a question with only two possible aswer, a sort of survey where other users can vote and also 
 see results. Built using Flask (Python), HTML and CSS.
 
