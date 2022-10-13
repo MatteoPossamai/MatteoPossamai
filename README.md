@@ -25,8 +25,8 @@ with other if you create a common group. So far my biggest project. Built with N
 
 #	:iphone:Contact
 
-LinkedIn: https://www.linkedin.com/in/matteo-possamai-784988191/ 
+[https://www.linkedin.com/in/matteo-possamai-784988191/] (LinkedIn)
 
-Twitter: https://twitter.com/MatteoPossamai_  
+[https://twitter.com/MatteoPossamai_] (Twitter)   
 
-Medium: https://medium.com/@mpossamaim
+[https://medium.com/@mpossamaim] (Medium)
