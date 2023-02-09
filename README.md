@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Matteo Possamai</h1>
-<h3>A passionate backend engineer from Italy</h3>
+<h1 align="center">Hi 👋, I'm Matteo Possamai</h1>
+<h3 align="center">A passionate backend engineer from Italy</h3>
 
 - 🔭 I’m currently working on [MyTable](https://github.com/MatteoPossamai/MyTable), a way to make your restaurant SMART
 - 🌱 I’m currently learning **Golang and Fiber**
