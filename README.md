@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Matteo Possamai</h1>
-<h3 align="center">A passionate backend engineer from Italy</h3>
+<h1 align="center">It's Matteo Possamai</h1>
+<h3 align="center">I am a Software Engineer</h3>
 
 - 🔭 I’m currently working in [Bloomberg LP](https://os.phil-opp.com/minimal-rust-kernel/)
-- 🌱 I’m currently learning **Pyhton - Deeply**
+- 🌱 I’m currently learning **Python - Deeply**
 - 👨‍💻 All of my projects are available at [https://matteopossamai.netlify.app/](https://matteopossamai.netlify.app/)
 - 📫 How to reach me **mpossamaim@gmail.com**
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1pYl0HLeqVdd47tYmvqRHb_LxFjLKjfp6/view?usp=sharing)
