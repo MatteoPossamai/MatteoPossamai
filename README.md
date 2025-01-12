@@ -2,11 +2,13 @@
 <h3 align="center">I am a Software Engineer</h3>
 
 - 🔭 I’m currently working in [Bloomberg LP](https://os.phil-opp.com/minimal-rust-kernel/)
-- 🌱 I’m currently learning **Python - Deeply**
-- 👨‍💻 All of my projects are available at [https://matteopossamai.netlify.app/](https://matteopossamai.netlify.app/)
+- 🌱 I’m currently learning **Zig and Programming Language Semantics**
+- 👨‍💻 I am currently contributint to [Z-Ant](https://github.com/ZIGTinyBook/Z-Ant)
 - 📫 How to reach me **mpossamaim@gmail.com**
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1pYl0HLeqVdd47tYmvqRHb_LxFjLKjfp6/view?usp=sharing)
-
+- 📄 Know myself more:
+  - [My Resume](https://drive.google.com/file/d/1pYl0HLeqVdd47tYmvqRHb_LxFjLKjfp6/view?usp=sharing)
+  - [Personal_Website](https://matteopossamai.netlify.app/)
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mpossamai107/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mpossamai107/" height="30" width="40" /></a>
