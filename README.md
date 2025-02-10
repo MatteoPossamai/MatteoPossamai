@@ -2,8 +2,7 @@
 <h3 align="center">I am a Software Engineer</h3>
 
 - 🔭 I’m currently working in [Bloomberg LP](https://os.phil-opp.com/minimal-rust-kernel/)
-- 🌱 I’m currently learning **Zig and Programming Language Semantics**
-- 👨‍💻 I am currently contributing to [Z-Ant](https://github.com/ZIGTinyBook/Z-Ant)
+- 🌱 I’m currently learning **Python under the hood**
 - 📫 How to reach me **mpossamaim@gmail.com**
 - 📄 Know myself more:
   - [My Resume](https://drive.google.com/file/d/1pYl0HLeqVdd47tYmvqRHb_LxFjLKjfp6/view?usp=sharing)
